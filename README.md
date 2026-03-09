@@ -7,13 +7,12 @@
 
 
 <pre>
-💻 I am developing my skills as a Frontend Developer | Enthuastic about new technologies
-📚 I have a Bachelors in Computer Science and a Masters in Artificial Intelligence & Deep Learning
-📝 I have a strong interest in building Frontend Uis for ML applications
-🔭 Working on Shopify Themes and React websites using Gatsby.js
-🌱 Focusing on Learning about customer needs and making their lives easier
-🌟 Main languages: Javascript, Python
-🚩 Interested in Full Stack Machine Learning Application development
+💻 Software Development Engineering | Passionate about building efficient and scalable applications
+📚 Currently in my 6th semester at TecMilenio University, pursuing a degree in Software Development Engineering
+🔧 Experienced in Java, Python, C#, SQL, and tools like Docker, Git, and Android Studio
+📊 Enjoy working on data-driven projects and backend systems with real-world applications
+🚀 Featured projects:
+
 </pre>
 
 
