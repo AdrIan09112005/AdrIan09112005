@@ -65,15 +65,6 @@
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## 📊 GitHub Stats:
-<div align="center">
-  
-![AdrIan09112005's github stats](https://github-readme-stats.vercel.app/api?username=AdrIan09112005&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrIan09112005&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
-</div>
-
-
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
